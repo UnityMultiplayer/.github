@@ -1,7 +1,6 @@
 # Welcome to [unprod.](https://x.com/unprodprojects)
 
-![git banner](https://github.com/user-attachments/assets/1e424830-c694-496d-b5f7-eb412209020f)
-
+![git banner](https://github.com/user-attachments/assets/887d9c98-5f5e-48b7-b225-3ede45ad4ace)
 
 # 🛠️ What Do We Even Do?
 
