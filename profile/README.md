@@ -1,4 +1,4 @@
-# Welcome to [Unprod.](https://x.com/unprodprojects)
+# Welcome to [unprod.](https://x.com/unprodprojects)
 
 ![Git Banner](https://github.com/user-attachments/assets/887d9c98-5f5e-48b7-b225-3ede45ad4ace)
 
