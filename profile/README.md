@@ -1,23 +1,33 @@
-# Welcome to [unprod.](https://x.com/unprodprojects)
+# Welcome to [unprod](https://x.com/unprodprojects) (Unity Productions)!
 
-![Git Banner](https://github.com/user-attachments/assets/7490cf9f-ce83-42ba-bdcf-93b993853aca)
+<img width="1500" height="500" alt="Snapshot_59" src="https://github.com/user-attachments/assets/83e7dfa4-5d60-427b-a2c6-cc4ccc101892" />
 
-## 🛠️ What Do We Even Do?
+## 🛠️ What We've Done
 
-### 🌐 [UnityTranslate](https://modrinth.com/mod/unitytranslate) (Public Mod)
-UnityTranslate brings real-time speech-to-text translation to Minecraft, free of charge. Customize the translation display with speech bubbles above players' heads or as text boxes in your HUD. Supporting over 40 languages, UnityTranslate makes global conversation smoother than ever.
+### 🌩️ [FACTION WARS](https://x.com/FWEvent) (Creator Event Series)
+
+More information on this project is coming very soon.
+
+### 💫 [Unity Multiplayer](https://x.com/UnityMultiEN) (Creator SMP)
+
+Unity Multiplayer was the first multilingual factions Minecraft server, running for over two years until October 25th, 2025. Across four seasons, it featured a continuing storyline, interactive live events, and fully custom systems designed to enhance the experience for content creators. Learn more at [Unity Hotspot](https://unitymultiplayer.online/).
 
 ### 🔗 [Unity Hotspot](https://unitymultiplayer.online/) (Website)
-UnityHotspot is your one-stop-shop for everything Unity. It shows when any Unity creator goes live, credits to the Unprod team, provides links to Unity's socials, and offers a quick look at Unity's history. Like UnityTranslate, all of Hotspot's code is open-source, so you can explore it and use it in your own projects.
 
-### 👁️ [Origins SMP](https://modrinth.com/modpack/osmp) (Public Modpack)
-Origins SMP is centered around the popular Origins mod, delivering a fun vanilla+ gameplay experience. It includes a selection of additional mods that enhance performance and bring more life to the world, keeping things fresh and exciting without shifting the focus away from Origins.
+Unity Hotspot is the central hub for everything Unity Multiplayer. It shows when any Unity creator goes live, credits the team behind the project, links to Unity’s socials, and offers a brief history of Unity. Its open-source code allows you to explore or use it in your own projects.
+
+### 🌐 [UnityTranslate](https://modrinth.com/mod/unitytranslate) (Public Mod)
+
+UnityTranslate provides real-time speech-to-text translation in Minecraft at no cost. Translations can appear as speech bubbles above players or as text boxes in your HUD. With support for over 44 languages, it makes global conversation smoother than ever.
 
 ### 💻 Unitils (Private Mod)
-Unitils is a custom suite of private features for Unity Multiplayer. This mod handles our customizable flag icons, custom tab configuration, live stream indicators, nickname system, and rank badges. Everything is custom-built to give us greater control over Unity's core features.
 
-## 📬 Join Unprod.
+Unitils is a private suite of tools built for Unity Multiplayer. It manages customizable flag icons, tab configurations, live stream indicators, nicknames, rank badges, and countless custom items and features used in live events. Everything is designed for full control over Unity’s core features.
 
-Interested in joining the team?
+### 👁️ [Origins SMP](https://modrinth.com/modpack/osmp) (Public Modpack)
 
-We frequently open team applications on [our Twitter](https://x.com/unprodprojects). For specific role openings (like Developers, Modelers, GFX Designers), check out [Theo's Twitter](https://x.com/theocloudss).
+Origins SMP focuses on the popular Origins mod, providing a fun modded gameplay experience. It includes additional mods to enhance performance and bring more life to the world while keeping the focus on Origins.
+
+## 📬 Join Unprod
+
+Apply to join the team currently working on Faction Wars here: [Application Link](https://x.com/FWEvent/status/1984713803611979802)
