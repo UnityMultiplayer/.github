@@ -4,9 +4,9 @@
 
 ## 🛠️ What We've Done
 
-### 🌩️ [FACTION WARS](https://x.com/FWEvent) (Creator Event Series)
+### 🌩️ [Faction Wars](https://x.com/FWEvent) (Creator Event Series)
 
-More information on this project is coming very soon.
+Faction Wars is a fast-paced, battle-royale style Minecraft event that debuted as an early prototype for the finale of Unity Multiplayer in late 2025. Its full release is planned for early 2026 and will differ significantly from the 2025 prototype.
 
 ### 💫 [Unity Multiplayer](https://x.com/UnityMultiEN) (Creator SMP)
 
