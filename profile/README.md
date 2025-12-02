@@ -1,8 +1,8 @@
 # Welcome to [unprod](https://x.com/unprodprojects) (Unity Productions)!
 
-<img width="1500" height="500" alt="Snapshot_59" src="https://github.com/user-attachments/assets/83e7dfa4-5d60-427b-a2c6-cc4ccc101892" />
+<img width="1000" height="400" alt="Git Banner" src="https://github.com/user-attachments/assets/2810abbf-a09e-4a49-8535-f2117eda2651" />
 
-## 🛠️ What We've Done
+## 🛠️ What We've Done *(so far)*
 
 ### 🌩️ [Faction Wars](https://x.com/FWEvent) (Creator Event Series)
 
@@ -27,6 +27,10 @@ Unitils is a private suite of tools built for Unity Multiplayer. It manages cust
 ### 👁️ [Origins SMP](https://modrinth.com/modpack/osmp) (Public Modpack)
 
 Origins SMP focuses on the popular Origins mod, providing a fun modded gameplay experience. It includes additional mods to enhance performance and bring more life to the world while keeping the focus on Origins.
+
+### 🎙️ [Amended Icons](https://modrinth.com/modpack/osmp) (Public Resource Pack)
+
+Amended Icons is a resource pack focused on updating the textures for every Simple Voice Chat icon, offering a cleaner and more polished look while still staying true to the original design language.
 
 ## 📬 Join Unprod
 
