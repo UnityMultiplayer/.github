@@ -1,20 +1,16 @@
-# Welcome to [unprod](https://x.com/unprodprojects) (Unity Productions)!
+# Welcome to [UNPROD](https://x.com/unprodprojects) (Unity Productions)!
 
-<img width="1000" height="400" alt="Git Banner" src="https://github.com/user-attachments/assets/2810abbf-a09e-4a49-8535-f2117eda2651" />
+![Git Banner](https://github.com/user-attachments/assets/96da5d5b-6a61-42ae-8f52-d9946f4b04ae)
 
 ## 🛠️ What We've Done *(so far)*
 
-### 🌩️ [Faction Wars](https://x.com/FWEvent) (Creator Event Series)
+### 🛡️ [Faction Wars](https://x.com/FWEvent) (Creator Event Series)
 
-Faction Wars is a fast-paced, battle-royale style Minecraft event that debuted as an early prototype for the finale of Unity Multiplayer in late 2025. Its full release is planned for early 2026 and will differ significantly from the 2025 prototype.
+Faction Wars is a fast-paced, battle-royale style Minecraft event that debuted as an early prototype for the finale of Unity Multiplayer in late 2025. Its full release is planned for late 2026 and will differ significantly from the 2025 prototype.
 
-### 💫 [Unity Multiplayer](https://x.com/UnityMultiEN) (Creator SMP)
+### 👑 [SMP Unity (aka Unity Multiplayer](https://x.com/UnityMultiEN) (Creator SMP)
 
-Unity Multiplayer was the first multilingual factions Minecraft server, running for over two years until October 25th, 2025. Across four seasons, it featured a continuing storyline, interactive live events, and fully custom systems designed to enhance the experience for content creators. Learn more at [Unity Hotspot](https://unitymultiplayer.online/).
-
-### 🔗 [Unity Hotspot](https://unitymultiplayer.online/) (Website)
-
-Unity Hotspot is the central hub for everything Unity Multiplayer. It shows when any Unity creator goes live, credits the team behind the project, links to Unity’s socials, and offers a brief history of Unity. Its open-source code allows you to explore or use it in your own projects.
+SMP Unity was the first multilingual factions Minecraft server, running for over two years until October 25th, 2025. Across four seasons, it featured a continuing storyline, interactive live events, and fully custom systems designed to enhance the experience for content creators. Learn more at [Unity Hotspot](https://unitymultiplayer.online/).
 
 ### 🌐 [UnityTranslate](https://modrinth.com/mod/unitytranslate) (Public Mod)
 
@@ -28,9 +24,13 @@ Unitils is a private suite of tools built for Unity Multiplayer. It manages cust
 
 Origins SMP focuses on the popular Origins mod, providing a fun modded gameplay experience. It includes additional mods to enhance performance and bring more life to the world while keeping the focus on Origins.
 
-### 🎙️ [Amended Icons](https://modrinth.com/modpack/osmp) (Public Resource Pack)
+### 🎙️ [Amended Icons](https://modrinth.com/resourcepack/amendedicons) (Public Resource Pack)
 
 Amended Icons is a resource pack focused on updating the textures for every Simple Voice Chat icon, offering a cleaner and more polished look while still staying true to the original design language.
+
+### 🔗 [Unity Hotspot](https://unitymultiplayer.online/) (Website)
+
+Unity Hotspot is the central hub for everything Unity Multiplayer. It shows when any Unity creator goes live, credits the team behind the project, links to Unity’s socials, and offers a brief history of Unity. Its open-source code allows you to explore or use it in your own projects.
 
 ## 📬 Join Unprod
 
